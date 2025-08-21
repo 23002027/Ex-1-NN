@@ -1,7 +1,7 @@
-### ENTER YOUR NAME: LOKNAATH P
-### ENTER YOUR REGISTER NO: 212223240080
+## Name: Kamesh R R
+## Reg no: 212223230095
 # EX. NO.1
-### DATE: 20/08/2025
+## DATE: 21/08/2025
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
